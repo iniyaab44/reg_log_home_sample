@@ -1,0 +1,12 @@
+login-system/
+├── index.php              # Home page
+├── register.php           # Registration page
+├── login.php              # Login page
+├── dashboard.php          # User dashboard
+├── logout.php             # Logout handler
+├── config/
+│   └── database.php       # Database configuration
+├── css/
+│   └── style.css          # Styling
+└── includes/
+    └── header.php         # Header template
